@@ -1,6 +1,6 @@
 # Python application to report new TCP connections on a Linux host.
 
-> Program toto read /proc/net/tcp every 10 seconds and outputs any new connections. 
+> Program to read /proc/net/tcp every 10 seconds and outputs any new connections. 
 
 ## Prerequisites:
 * `Python 3.8`
